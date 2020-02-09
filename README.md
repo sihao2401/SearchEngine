@@ -1,4 +1,4 @@
-#Search Engine for Movie Plot Summaries
+# Search Engine for Movie Plot Summaries
 
 In this project, we worked with a dataset of movie plot summaries. We are interested in building a search engine for the plot summaries.
 You will use the tf-idf technique to accomplish the above task. 
